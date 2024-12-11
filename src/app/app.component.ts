@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'primeiros-passos';
+  aluno = 'Bruno Vinicius de Araujo Eneas';
 }
